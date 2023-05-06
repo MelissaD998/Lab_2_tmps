@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <row>
+        <column>"Agency"</column>
+        <column>"Invoice #"</column>
+        <column>"Invoice Version"</column>
+        <column>"Invoice Status"</column>
+        <column>"Reversals"</column>
+        <column>"Entry Method"</column>
+        <column>"Created By"</column>
+        <column>"Last Change Date &amp; Time"</column>
+        <column>"Last Changed By"</column>
+        <column>"Media Type"</column>
+        <column>"Sub-Media"</column>
+        <column>"Supplier"</column>
+        <column>"Market"</column>
+        <column>"Vendor"</column>
+        <column>"Accounting Office"</column>
+        <column>"Client"</column>
+        <column>"Product"</column>
+        <column>"Estimate"</column>
+        <column>"Order #"</column>
+        <column>"Invoice Type"</column>
+        <column>"Revenue Type"</column>
+        <column>"Estimate Start Date"</column>
+        <column>"Estimate End Date"</column>
+        <column>"Invoice Date"</column>
+        <column>"Buyer"</column>
+        <column>"Month of Service"</column>
+        <column>"Deal Number"</column>
+        <column>"Purchase Order"</column>
+        <column>"Package Code"</column>
+        <column>"Invoice Start Date"</column>
+        <column>"Invoice End Date"</column>
+        <column>"Schedule Start Date"</column>
+        <column>"Schedule End Date"</column>
+        <column>"Accounting Month"</column>
+        <column>"Invoice Amount"</column>
+        <column>"Total Cash"</column>
+        <column>"Total Trade"</column>
+        <column>"Payable Amount"</column>
+        <column>"Invoice Net"</column>
+        <column>"Invoice Gross"</column>
+        <column>"Commission"</column>
+        <column>"Tax Assessment"</column>
+        <column>"Total Tax"</column>
+        <column>"Due Date"</column>
+        <column>"Last Clear Date &amp; Time"</column>
+        <column>"Last Cleared By"</column>
+        <column>"Check Number"</column>
+        <column>"Voucher Number"</column>
+        <column>"Paid Amount"</column>
+        <column>"Pay Date"</column>
+        <column>"AP Write-Off Amount"</column>
+    </row>
+    <row>
+        <column>"TR2-Trilia"</column>
+        <column>"DQBtqW7eb2y7iCY3"</column>
+        <column>"IE"</column>
+        <column>"Draft"</column>
+        <column>"--"</column>
+        <column>"Manual"</column>
+        <column>"hudson.finance@trilia.com"</column>
+        <column>"04/14/2023 04:35:13 PM (GMT+3)"</column>
+        <column>"--"</column>
+        <column>"Out of Home"</column>
+        <column>"Out of Home Traditional"</column>
+        <column>"WSTM-WSTM"</column>
+        <column>"--"</column>
+        <column>"WSTM-WSTM"</column>
+        <column>"WN23L-Automation AAO"</column>
+        <column>"DUNK-DUNK"</column>
+        <column>"SRLB-SRLB"</column>
+        <column>"1-DUNK/SRLB/1"</column>
+        <column>"--"</column>
+        <column>"Regular"</column>
+        <column>"Cash"</column>
+        <column>"01/01/1970"</column>
+        <column>"12/31/2222"</column>
+        <column>"04/14/2023"</column>
+        <column>"Yong Wilderman"</column>
+        <column>"04/2023"</column>
+        <column>"--"</column>
+        <column>"--"</column>
+        <column>"--"</column>
+        <column>"03/15/2023"</column>
+        <column>"05/14/2023"</column>
+        <column>"03/16/2023"</column>
+        <column>"05/13/2023"</column>
+        <column>"--"</column>
+        <column>"100.00"</column>
+        <column>"100.00"</column>
+        <column>"0"</column>
+        <column>"0.00"</column>
+        <column>"0"</column>
+        <column>"0"</column>
+        <column>"5.00"</column>
+        <column>"--"</column>
+        <column>"0"</column>
+        <column>"05/24/2023"</column>
+        <column>"--"</column>
+        <column>"--"</column>
+        <column>"--"</column>
+        <column>"--"</column>
+        <column>"0"</column>
+        <column>"--"</column>
+        <column>"0"</column>
+    </row>
+</data>
